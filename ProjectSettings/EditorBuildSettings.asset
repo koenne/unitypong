@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/gameSpecial.unity
     guid: 833485f652a12494f82436c9a0304057
+  - enabled: 1
+    path: Assets/Scenes/explosionScreen.unity
+    guid: 34293a4379956244598b4adff9a63f63
   m_configObjects: {}
