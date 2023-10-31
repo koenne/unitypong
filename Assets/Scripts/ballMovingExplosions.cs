@@ -164,6 +164,7 @@ public class ballMovingExplosions : MonoBehaviour
     }
     void end(string winner)
     {
+        audioData.Play(0);
         playerWon = winner;
         hitTop = false; hitBottom = false;
         hitLeft = false; hitRight = false;
