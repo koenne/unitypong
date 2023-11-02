@@ -4,7 +4,6 @@ using Unity.Burst.CompilerServices;
 using UnityEngine;
 using UnityEngine.UIElements;
 using static System.Net.WebRequestMethods;
-using static UnityEditor.PlayerSettings;
 
 public class player2Controls : MonoBehaviour
 {
